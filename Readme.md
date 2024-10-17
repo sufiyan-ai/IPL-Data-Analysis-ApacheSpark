@@ -79,3 +79,7 @@ This chart visualizes the frequency of different types of dismissals in IPL matc
 
    ```bash
    pip install pyspark matplotlib seaborn pandas
+
+## Future Work
+Adding more advanced visualizations, such as batting partnerships and bowler vs batsman matchups.
+Integration of machine learning models for performance prediction.
