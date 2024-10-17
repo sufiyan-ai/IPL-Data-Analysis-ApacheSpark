@@ -48,19 +48,29 @@ The project includes the following visualizations:
 - **Dismissal Types**: Frequency of different dismissal types.
 - **Team Toss Performance**: Performance of teams after winning the toss.
 
-  ### 1. Economical Bowlers in Powerplays
+### 1. Economical Bowlers in Powerplays
 This visualization showcases the most economical bowlers during powerplay overs.
 ![Economical Bowlers](images/economical_bowlers.png)
 
-### 2. Venue-wise Average and Maximum Scores
+### 2. Toss Impact on Match Outcomes
+This graph demonstrates how winning the toss affects match outcomes.
+![Toss Impact](images/toss_impact.png)
+
+### 3. Venue-wise Average and Maximum Scores
 A venue-based analysis of average and maximum scores across different IPL grounds.
 ![Venue Scores](images/venue_scores.png)
 
+### 4. Player Performance Analysis
+An analysis of individual player performances across multiple seasons, focusing on consistency and key contributions.
+![Player Performance](images/average_runs_batsmen.png)
 
-### 4. Team Toss Performance
+### 5. Team Toss Performance
 An overview of how teams perform after winning the toss, showcasing win rates based on toss outcomes.
 ![Team Toss Performance](images/team_toss_performance.png)
 
+### 6. Dismissal Types
+This chart visualizes the frequency of different types of dismissals in IPL matches.
+![Dismissal Types](images/dismissal_types.png)
 
 ## Setup Instructions
 1. **Clone the repository**.
